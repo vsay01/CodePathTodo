@@ -34,7 +34,7 @@ The following **additional** features are implemented:
 
 Here's a walk through of implemented user stories:
 
-<img src='http://imgur.com/a/IZHi8' width="600" />
+<img src='http://i.imgur.com/5IyK8Tk.gif' width="500" />
 
 ## Project Analysis
 
