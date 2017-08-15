@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">CodePathTodo</string>
+    <string name="action_settings">Settings</string>
+    <string name="loading_tasks_error">Error while loading tasks</string>
+    <string name="delete_tasks_error">Error while delete task</string>
+    <string name="add_task">New Task</string>
+    <string name="edit_task">Edit Task</string>
+    <string name="empty_task_message">Tasks cannot be empty</string>
+    <string-array name="priority_array">
+        <item>Normal</item>
+        <item>Medium</item>
+        <item>High</item>
+    </string-array>
+    <string name="successfully_saved_task_message">Task saved</string>
+    <string name="successfully_delete_task_message">Task deleted</string>
+    <string name="successfully_all_delete_task_message">All Tasks deleted</string>
+    <string name="no_tasks_all">You have no Tasks!</string>
+    <string name="due_date">Due date: %1$s</string>
+    <string name="task_marked_complete">Task marked complete</string>
+    <string name="task_marked_active">Task marked active</string>
+    <string name="nav_all">All</string>
+    <string name="nav_active">Active</string>
+    <string name="nav_completed">Completed</string>
+    <string name="label_all">All Tasks</string>
+    <string name="label_active">Active Tasks</string>
+    <string name="label_completed">Completed Tasks</string>
+    <string name="menu_filter">Filter</string>
+    <string name="menu_clear">Clear completed</string>
+    <string name="menu_delete_all">Delete all</string>
+    <string name="refresh">Refresh</string>
+    <string name="completed_tasks_cleared">Completed tasks cleared</string>
+    <string name="task_title">Title : %1$s</string>
+    <string name="task_due_date">Due Date : %1$s</string>
+    <string name="task_priority">Priority : %1$s</string>
+    <string name="task_description">Description : %1$s</string>
+    <string name="task_detail_title">Task Detail</string>
+    <string name="task_complete">Is Task Completed? : %1$s</string>
+    <string name="task_title_hint">Task title</string>
+    <string name="due_date_hint">due date</string>
+    <string name="task_description_hint">description_hint</string>
+    <string name="no_tasks_add">no tasks add</string>
+</resources>
